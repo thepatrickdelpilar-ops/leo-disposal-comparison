@@ -1,0 +1,73 @@
+{
+  "source": "CelesTrak Satellite Catalog (SATCAT), https://celestrak.org",
+  "accessed": "2026-07-21",
+  "method": "grouped records.php pull; on-orbit filter (no decay date, not status D); dead payloads classified as debris",
+  "unique_objects_pulled": 58374,
+  "total_leo_objects": 26628,
+  "shell_width_km": 100,
+  "shells": [
+    {
+      "altitude_km": 500,
+      "total": 5212,
+      "fraction_active": 0.9762,
+      "fraction_rocketbody": 0.0067,
+      "fraction_debris": 0.0171
+    },
+    {
+      "altitude_km": 550,
+      "total": 2121,
+      "fraction_active": 0.9052,
+      "fraction_rocketbody": 0.0189,
+      "fraction_debris": 0.0759
+    },
+    {
+      "altitude_km": 600,
+      "total": 1044,
+      "fraction_active": 0.6437,
+      "fraction_rocketbody": 0.0805,
+      "fraction_debris": 0.2759
+    },
+    {
+      "altitude_km": 650,
+      "total": 910,
+      "fraction_active": 0.4187,
+      "fraction_rocketbody": 0.0363,
+      "fraction_debris": 0.5451
+    },
+    {
+      "altitude_km": 700,
+      "total": 961,
+      "fraction_active": 0.1113,
+      "fraction_rocketbody": 0.0499,
+      "fraction_debris": 0.8387
+    },
+    {
+      "altitude_km": 750,
+      "total": 1179,
+      "fraction_active": 0.0416,
+      "fraction_rocketbody": 0.0755,
+      "fraction_debris": 0.883
+    },
+    {
+      "altitude_km": 800,
+      "total": 1551,
+      "fraction_active": 0.1161,
+      "fraction_rocketbody": 0.0426,
+      "fraction_debris": 0.8414
+    },
+    {
+      "altitude_km": 850,
+      "total": 1446,
+      "fraction_active": 0.045,
+      "fraction_rocketbody": 0.0512,
+      "fraction_debris": 0.9039
+    },
+    {
+      "altitude_km": 900,
+      "total": 903,
+      "fraction_active": 0.0687,
+      "fraction_rocketbody": 0.031,
+      "fraction_debris": 0.9003
+    }
+  ]
+}
