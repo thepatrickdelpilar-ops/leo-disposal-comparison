@@ -1,0 +1,3 @@
+650 km: FCC [np.float64(52.5), np.float64(52.5), np.float64(52.5), np.float64(52.5), np.float64(52.5)]  IADC [np.float64(90.0), np.float64(90.0), np.float64(90.0), np.float64(92.5), np.float64(90.0)]
+800 km: FCC [np.float64(77.5), np.float64(77.5), np.float64(77.5), np.float64(75.0), np.float64(77.5)]  IADC [np.float64(90.0), np.float64(90.0), np.float64(90.0), np.float64(90.0), np.float64(90.0)]
+saved outputs/fig_convergence.pdf/.png

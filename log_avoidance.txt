@@ -1,0 +1,7 @@
+avoidance 0%: FCC 78%  IADC 90%
+avoidance 20%: FCC 75%  IADC 90%
+avoidance 40%: FCC 75%  IADC 90%
+avoidance 60%: FCC 75%  IADC 90%
+avoidance 80%: FCC 75%  IADC 90%
+avoidance 95%: FCC 75%  IADC 90%
+saved outputs/fig_avoidance.pdf/.png

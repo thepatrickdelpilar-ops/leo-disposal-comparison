@@ -1,0 +1,5 @@
+Clustering: FCC [np.float64(75.0), np.float64(75.0), np.float64(77.5)]  IADC [np.float64(87.5), np.float64(90.0), np.float64(92.5)]
+Population: FCC [np.float64(82.5), np.float64(75.0), np.float64(70.0)]  IADC [np.float64(97.50000000000001), np.float64(90.0), np.float64(85.00000000000001)]
+Decay lifetime: FCC [np.float64(75.0), np.float64(75.0), np.float64(77.5)]  IADC [np.float64(87.5), np.float64(90.0), np.float64(90.0)]
+Launch rate: FCC [np.float64(65.0), np.float64(75.0), np.float64(82.5)]  IADC [np.float64(77.5), np.float64(90.0), np.float64(97.50000000000001)]
+saved outputs/fig_sensitivity.pdf/.png

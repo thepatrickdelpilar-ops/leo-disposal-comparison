@@ -1,0 +1,81 @@
+{
+  "solar_bracket": {
+    "solar_max": {
+      "phi": 0.3,
+      "fcc_first_nonzero_km": 725,
+      "iadc_first_nonzero_km": 725
+    },
+    "nominal": {
+      "phi": 1.0,
+      "fcc_first_nonzero_km": 625,
+      "iadc_first_nonzero_km": 625
+    },
+    "solar_min": {
+      "phi": 3.0,
+      "fcc_first_nonzero_km": 575,
+      "iadc_first_nonzero_km": 575
+    }
+  },
+  "active_decay_ablation": {
+    "650_FCC": {
+      "on": 0.525,
+      "off": 0.55
+    },
+    "650_IADC": {
+      "on": 0.925,
+      "off": 0.9750000000000001
+    },
+    "800_FCC": {
+      "on": 0.75,
+      "off": 0.775
+    },
+    "800_IADC": {
+      "on": 0.9,
+      "off": 0.9
+    }
+  },
+  "hard_deadline": {
+    "650_FCC": {
+      "rate_1_over_T": 0.525,
+      "hard_deadline": 0.525
+    },
+    "650_IADC": {
+      "rate_1_over_T": 0.925,
+      "hard_deadline": 0.775
+    },
+    "800_FCC": {
+      "rate_1_over_T": 0.75,
+      "hard_deadline": 0.75
+    },
+    "800_IADC": {
+      "rate_1_over_T": 0.9,
+      "hard_deadline": 0.9
+    }
+  },
+  "cutoff_multiple": {
+    "cutoff_0.3": {
+      "fcc": 0.775,
+      "iadc": 0.9
+    },
+    "cutoff_0.5": {
+      "fcc": 0.75,
+      "iadc": 0.9
+    },
+    "cutoff_0.7": {
+      "fcc": 0.75,
+      "iadc": 0.875
+    },
+    "multiple_5": {
+      "fcc": 0.9,
+      "iadc": 1.05
+    },
+    "multiple_10": {
+      "fcc": 0.75,
+      "iadc": 0.9
+    },
+    "multiple_20": {
+      "fcc": 0.55,
+      "iadc": 0.65
+    }
+  }
+}

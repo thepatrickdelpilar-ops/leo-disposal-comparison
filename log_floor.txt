@@ -1,0 +1,11 @@
+success 55%: FCC 105  IADC 105
+success 60%: FCC 105  IADC 105
+success 65%: FCC 105  IADC 105
+success 70%: FCC 105  IADC 105
+success 75%: FCC 100  IADC 105
+success 80%: FCC 95  IADC 105
+success 85%: FCC 90  IADC 105
+success 90%: FCC 85  IADC 100
+success 95%: FCC 80  IADC 95
+success 100%: FCC 78  IADC 90
+saved outputs/fig_disposal_floor.pdf/.png

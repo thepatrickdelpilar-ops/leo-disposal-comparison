@@ -1,0 +1,26 @@
+Solar bracket: first altitude requiring nonzero compliance (25 km grid)
+  phi=0.3: FCC 725 km, IADC 725 km
+  phi=1.0: FCC 625 km, IADC 625 km
+  phi=3.0: FCC 575 km, IADC 575 km
+
+Active-decay ablation (decay on vs off for the active pool)
+  650 km FCC: on 52.5%, off 55.0%
+  650 km IADC: on 92.5%, off 97.5%
+  800 km FCC: on 75.0%, off 77.5%
+  800 km IADC: on 90.0%, off 90.0%
+
+Hard-deadline ablation (exact removal after T years vs rate 1/T)
+  650 km FCC: rate-based 52.5%, hard deadline 52.5%
+  650 km IADC: rate-based 92.5%, hard deadline 77.5%
+  800 km FCC: rate-based 75.0%, hard deadline 75.0%
+  800 km IADC: rate-based 90.0%, hard deadline 90.0%
+
+Cutoff and cascade-multiple robustness at 800 km
+  cutoff q=0.3: FCC 77.5%, IADC 90.0%
+  cutoff q=0.5: FCC 75.0%, IADC 90.0%
+  cutoff q=0.7: FCC 75.0%, IADC 87.5%
+  multiple 5x: FCC 90.0%, IADC unachievable
+  multiple 10x: FCC 75.0%, IADC 90.0%
+  multiple 20x: FCC 55.0%, IADC 65.0%
+
+wrote outputs/ablations.json

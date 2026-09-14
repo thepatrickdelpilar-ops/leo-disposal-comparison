@@ -1,0 +1,3 @@
+Zero-compliance growth diagnostic (launches on, 300 runs):
+  550 km: growth 1.55x, mean collisions 6
+  800 km: growth 80.99x, mean collisions 525

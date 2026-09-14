@@ -1,0 +1,10 @@
+  [PASS] higher compliance not worse: 0.01 <= 1.00
+  [PASS] higher disposal success not worse: 1.00 <= 1.00
+  [PASS] higher launch not safer: 0.00 <= 1.00
+  [PASS] higher population not safer: 1.00 <= 1.00
+  [PASS] higher clustering not safer: 1.00 <= 1.00
+  [PASS] FCC not stricter than IADC: 1.00 <= 1.00
+  [PASS] zero launch not worse: 0.00 <= 1.00
+  [PASS] full compliance safest: 0.00 <= 1.00
+
+8/8 checks passed

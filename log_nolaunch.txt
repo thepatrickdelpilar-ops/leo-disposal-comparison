@@ -1,0 +1,7 @@
+No-launch 200-year growth factor and mean collisions by altitude:
+  550 km: growth  0.00x   collisions     0.1
+  650 km: growth  0.02x   collisions     0.1
+  750 km: growth  0.43x   collisions     0.2
+  850 km: growth  0.86x   collisions     0.4
+  900 km: growth  0.93x   collisions     0.1
+Expected: populations decay away at low altitude and persist toward the 800-900 km band, where drag is negligible; the baseline is sub-critical, consistent with the lower-bound framing.

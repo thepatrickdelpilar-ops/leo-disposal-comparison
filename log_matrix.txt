@@ -1,0 +1,4 @@
+ordering preserved: 81/81 (100%)
+IADC unachievable (censored) in 26 combinations; FCC achievable in all
+finite gaps (n=55): median 12.5, range [5.0, 17.5]
+saved outputs/fig_robustness_matrix.pdf/.png
