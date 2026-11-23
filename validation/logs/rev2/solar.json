@@ -1,0 +1,999 @@
+{
+ "solar_max_static": {
+  "FCC": {
+   "500": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "525": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "550": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "575": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "600": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "625": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "650": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "675": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "700": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "725": {
+    "exceed": 0.325,
+    "selfsust": 0.0
+   },
+   "750": {
+    "exceed": 0.42500000000000004,
+    "selfsust": 0.0
+   },
+   "775": {
+    "exceed": 0.5750000000000001,
+    "selfsust": 0.0
+   },
+   "800": {
+    "exceed": 0.5750000000000001,
+    "selfsust": 0.125
+   },
+   "825": {
+    "exceed": 0.65,
+    "selfsust": 0.45
+   },
+   "850": {
+    "exceed": 0.7250000000000001,
+    "selfsust": 0.65
+   },
+   "875": {
+    "exceed": 0.775,
+    "selfsust": 0.775
+   },
+   "900": {
+    "exceed": 0.875,
+    "selfsust": 0.875
+   }
+  },
+  "IADC": {
+   "500": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "525": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "550": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "575": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "600": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "625": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "650": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "675": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "700": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "725": {
+    "exceed": 0.525,
+    "selfsust": 0.0
+   },
+   "750": {
+    "exceed": 0.6000000000000001,
+    "selfsust": 0.0
+   },
+   "775": {
+    "exceed": 0.75,
+    "selfsust": 0.0
+   },
+   "800": {
+    "exceed": 0.7250000000000001,
+    "selfsust": 0.17500000000000002
+   },
+   "825": {
+    "exceed": 0.8,
+    "selfsust": 0.55
+   },
+   "850": {
+    "exceed": 0.875,
+    "selfsust": 0.775
+   },
+   "875": {
+    "exceed": 0.9,
+    "selfsust": 0.925
+   },
+   "900": {
+    "exceed": 1.05,
+    "selfsust": 1.0
+   }
+  }
+ },
+ "nominal": {
+  "FCC": {
+   "500": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "525": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "550": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "575": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "600": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "625": {
+    "exceed": 0.125,
+    "selfsust": 0.0
+   },
+   "650": {
+    "exceed": 0.525,
+    "selfsust": 0.0
+   },
+   "675": {
+    "exceed": 0.675,
+    "selfsust": 0.225
+   },
+   "700": {
+    "exceed": 0.7250000000000001,
+    "selfsust": 0.375
+   },
+   "725": {
+    "exceed": 0.775,
+    "selfsust": 0.5
+   },
+   "750": {
+    "exceed": 0.775,
+    "selfsust": 0.65
+   },
+   "775": {
+    "exceed": 0.8,
+    "selfsust": 0.75
+   },
+   "800": {
+    "exceed": 0.775,
+    "selfsust": 0.8500000000000001
+   },
+   "825": {
+    "exceed": 0.775,
+    "selfsust": 0.925
+   },
+   "850": {
+    "exceed": 0.8,
+    "selfsust": 0.9750000000000001
+   },
+   "875": {
+    "exceed": 0.8250000000000001,
+    "selfsust": 1.05
+   },
+   "900": {
+    "exceed": 0.9,
+    "selfsust": 1.05
+   }
+  },
+  "IADC": {
+   "500": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "525": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "550": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "575": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "600": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "625": {
+    "exceed": 0.225,
+    "selfsust": 0.0
+   },
+   "650": {
+    "exceed": 0.775,
+    "selfsust": 0.0
+   },
+   "675": {
+    "exceed": 0.925,
+    "selfsust": 0.30000000000000004
+   },
+   "700": {
+    "exceed": 0.9500000000000001,
+    "selfsust": 0.47500000000000003
+   },
+   "725": {
+    "exceed": 0.9750000000000001,
+    "selfsust": 0.625
+   },
+   "750": {
+    "exceed": 0.925,
+    "selfsust": 0.8
+   },
+   "775": {
+    "exceed": 0.9500000000000001,
+    "selfsust": 0.9
+   },
+   "800": {
+    "exceed": 0.9,
+    "selfsust": 1.0
+   },
+   "825": {
+    "exceed": 0.9,
+    "selfsust": 1.05
+   },
+   "850": {
+    "exceed": 0.9500000000000001,
+    "selfsust": 1.05
+   },
+   "875": {
+    "exceed": 0.9500000000000001,
+    "selfsust": 1.05
+   },
+   "900": {
+    "exceed": 1.05,
+    "selfsust": 1.05
+   }
+  }
+ },
+ "solar_min_static": {
+  "FCC": {
+   "500": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "525": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "550": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "575": {
+    "exceed": 0.05,
+    "selfsust": 0.0
+   },
+   "600": {
+    "exceed": 0.65,
+    "selfsust": 0.275
+   },
+   "625": {
+    "exceed": 0.75,
+    "selfsust": 0.5750000000000001
+   },
+   "650": {
+    "exceed": 0.8250000000000001,
+    "selfsust": 0.75
+   },
+   "675": {
+    "exceed": 0.8500000000000001,
+    "selfsust": 0.875
+   },
+   "700": {
+    "exceed": 0.875,
+    "selfsust": 0.9
+   },
+   "725": {
+    "exceed": 0.875,
+    "selfsust": 0.925
+   },
+   "750": {
+    "exceed": 0.8500000000000001,
+    "selfsust": 0.9500000000000001
+   },
+   "775": {
+    "exceed": 0.8500000000000001,
+    "selfsust": 1.0
+   },
+   "800": {
+    "exceed": 0.8,
+    "selfsust": 1.05
+   },
+   "825": {
+    "exceed": 0.8,
+    "selfsust": 1.05
+   },
+   "850": {
+    "exceed": 0.8250000000000001,
+    "selfsust": 1.05
+   },
+   "875": {
+    "exceed": 0.8250000000000001,
+    "selfsust": 1.05
+   },
+   "900": {
+    "exceed": 0.9,
+    "selfsust": 1.05
+   }
+  },
+  "IADC": {
+   "500": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "525": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "550": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "575": {
+    "exceed": 0.1,
+    "selfsust": 0.0
+   },
+   "600": {
+    "exceed": 0.875,
+    "selfsust": 0.375
+   },
+   "625": {
+    "exceed": 0.9750000000000001,
+    "selfsust": 0.775
+   },
+   "650": {
+    "exceed": 1.05,
+    "selfsust": 0.9500000000000001
+   },
+   "675": {
+    "exceed": 1.05,
+    "selfsust": 1.05
+   },
+   "700": {
+    "exceed": 1.05,
+    "selfsust": 1.05
+   },
+   "725": {
+    "exceed": 1.05,
+    "selfsust": 1.05
+   },
+   "750": {
+    "exceed": 1.0,
+    "selfsust": 1.05
+   },
+   "775": {
+    "exceed": 1.0,
+    "selfsust": 1.05
+   },
+   "800": {
+    "exceed": 0.925,
+    "selfsust": 1.05
+   },
+   "825": {
+    "exceed": 0.925,
+    "selfsust": 1.05
+   },
+   "850": {
+    "exceed": 0.9500000000000001,
+    "selfsust": 1.05
+   },
+   "875": {
+    "exceed": 0.9500000000000001,
+    "selfsust": 1.05
+   },
+   "900": {
+    "exceed": 1.05,
+    "selfsust": 1.05
+   }
+  }
+ },
+ "cycle": {
+  "FCC": {
+   "500": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "525": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "550": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "575": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "600": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "625": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "650": {
+    "exceed": 0.325,
+    "selfsust": 0.0
+   },
+   "675": {
+    "exceed": 0.55,
+    "selfsust": 0.0
+   },
+   "700": {
+    "exceed": 0.65,
+    "selfsust": 0.025
+   },
+   "725": {
+    "exceed": 0.7250000000000001,
+    "selfsust": 0.25
+   },
+   "750": {
+    "exceed": 0.7250000000000001,
+    "selfsust": 0.47500000000000003
+   },
+   "775": {
+    "exceed": 0.775,
+    "selfsust": 0.65
+   },
+   "800": {
+    "exceed": 0.75,
+    "selfsust": 0.775
+   },
+   "825": {
+    "exceed": 0.775,
+    "selfsust": 0.875
+   },
+   "850": {
+    "exceed": 0.8,
+    "selfsust": 0.925
+   },
+   "875": {
+    "exceed": 0.8,
+    "selfsust": 0.9750000000000001
+   },
+   "900": {
+    "exceed": 0.9,
+    "selfsust": 1.0
+   }
+  },
+  "IADC": {
+   "500": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "525": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "550": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "575": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "600": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "625": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "650": {
+    "exceed": 0.55,
+    "selfsust": 0.0
+   },
+   "675": {
+    "exceed": 0.8250000000000001,
+    "selfsust": 0.0
+   },
+   "700": {
+    "exceed": 0.875,
+    "selfsust": 0.05
+   },
+   "725": {
+    "exceed": 0.925,
+    "selfsust": 0.35000000000000003
+   },
+   "750": {
+    "exceed": 0.9,
+    "selfsust": 0.6000000000000001
+   },
+   "775": {
+    "exceed": 0.925,
+    "selfsust": 0.775
+   },
+   "800": {
+    "exceed": 0.875,
+    "selfsust": 0.9
+   },
+   "825": {
+    "exceed": 0.9,
+    "selfsust": 1.0
+   },
+   "850": {
+    "exceed": 0.925,
+    "selfsust": 1.05
+   },
+   "875": {
+    "exceed": 0.9500000000000001,
+    "selfsust": 1.05
+   },
+   "900": {
+    "exceed": 1.05,
+    "selfsust": 1.05
+   }
+  }
+ },
+ "cycle_amp5": {
+  "FCC": {
+   "500": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "525": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "550": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "575": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "600": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "625": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "650": {
+    "exceed": 0.05,
+    "selfsust": 0.0
+   },
+   "675": {
+    "exceed": 0.4,
+    "selfsust": 0.0
+   },
+   "700": {
+    "exceed": 0.55,
+    "selfsust": 0.0
+   },
+   "725": {
+    "exceed": 0.675,
+    "selfsust": 0.0
+   },
+   "750": {
+    "exceed": 0.675,
+    "selfsust": 0.2
+   },
+   "775": {
+    "exceed": 0.75,
+    "selfsust": 0.45
+   },
+   "800": {
+    "exceed": 0.7000000000000001,
+    "selfsust": 0.65
+   },
+   "825": {
+    "exceed": 0.75,
+    "selfsust": 0.775
+   },
+   "850": {
+    "exceed": 0.775,
+    "selfsust": 0.875
+   },
+   "875": {
+    "exceed": 0.8,
+    "selfsust": 0.9500000000000001
+   },
+   "900": {
+    "exceed": 0.9,
+    "selfsust": 0.9750000000000001
+   }
+  },
+  "IADC": {
+   "500": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "525": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "550": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "575": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "600": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "625": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "650": {
+    "exceed": 0.1,
+    "selfsust": 0.0
+   },
+   "675": {
+    "exceed": 0.625,
+    "selfsust": 0.0
+   },
+   "700": {
+    "exceed": 0.775,
+    "selfsust": 0.0
+   },
+   "725": {
+    "exceed": 0.875,
+    "selfsust": 0.0
+   },
+   "750": {
+    "exceed": 0.8500000000000001,
+    "selfsust": 0.275
+   },
+   "775": {
+    "exceed": 0.9,
+    "selfsust": 0.5750000000000001
+   },
+   "800": {
+    "exceed": 0.8500000000000001,
+    "selfsust": 0.775
+   },
+   "825": {
+    "exceed": 0.875,
+    "selfsust": 0.925
+   },
+   "850": {
+    "exceed": 0.925,
+    "selfsust": 1.05
+   },
+   "875": {
+    "exceed": 0.925,
+    "selfsust": 1.05
+   },
+   "900": {
+    "exceed": 1.05,
+    "selfsust": 1.05
+   }
+  }
+ },
+ "cycle_mean_rate_factor": 1.3252762518623382,
+ "cycle_fine": {
+  "FCC": {
+   "560": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "565": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "570": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "575": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "580": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "585": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "590": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "595": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "600": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "605": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "610": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "615": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "620": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "625": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "630": {
+    "exceed": 0.05,
+    "selfsust": 0.0
+   },
+   "635": {
+    "exceed": 0.125,
+    "selfsust": 0.0
+   },
+   "640": {
+    "exceed": 0.2,
+    "selfsust": 0.0
+   },
+   "645": {
+    "exceed": 0.275,
+    "selfsust": 0.0
+   },
+   "650": {
+    "exceed": 0.325,
+    "selfsust": 0.0
+   },
+   "655": {
+    "exceed": 0.375,
+    "selfsust": 0.0
+   },
+   "660": {
+    "exceed": 0.42500000000000004,
+    "selfsust": 0.0
+   },
+   "665": {
+    "exceed": 0.47500000000000003,
+    "selfsust": 0.0
+   },
+   "670": {
+    "exceed": 0.525,
+    "selfsust": 0.0
+   },
+   "675": {
+    "exceed": 0.55,
+    "selfsust": 0.0
+   },
+   "680": {
+    "exceed": 0.5750000000000001,
+    "selfsust": 0.0
+   },
+   "685": {
+    "exceed": 0.6000000000000001,
+    "selfsust": 0.0
+   },
+   "690": {
+    "exceed": 0.625,
+    "selfsust": 0.0
+   },
+   "695": {
+    "exceed": 0.625,
+    "selfsust": 0.0
+   },
+   "700": {
+    "exceed": 0.65,
+    "selfsust": 0.025
+   },
+   "705": {
+    "exceed": 0.675,
+    "selfsust": 0.07500000000000001
+   },
+   "710": {
+    "exceed": 0.7000000000000001,
+    "selfsust": 0.125
+   },
+   "715": {
+    "exceed": 0.7000000000000001,
+    "selfsust": 0.17500000000000002
+   },
+   "720": {
+    "exceed": 0.7250000000000001,
+    "selfsust": 0.225
+   },
+   "725": {
+    "exceed": 0.7250000000000001,
+    "selfsust": 0.275
+   },
+   "730": {
+    "exceed": 0.7000000000000001,
+    "selfsust": 0.325
+   }
+  },
+  "IADC": {
+   "560": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "565": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "570": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "575": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "580": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "585": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "590": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "595": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "600": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "605": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "610": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "615": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "620": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "625": {
+    "exceed": 0.0,
+    "selfsust": 0.0
+   },
+   "630": {
+    "exceed": 0.07500000000000001,
+    "selfsust": 0.0
+   },
+   "635": {
+    "exceed": 0.225,
+    "selfsust": 0.0
+   },
+   "640": {
+    "exceed": 0.35000000000000003,
+    "selfsust": 0.0
+   },
+   "645": {
+    "exceed": 0.45,
+    "selfsust": 0.0
+   },
+   "650": {
+    "exceed": 0.55,
+    "selfsust": 0.0
+   },
+   "655": {
+    "exceed": 0.625,
+    "selfsust": 0.0
+   },
+   "660": {
+    "exceed": 0.7000000000000001,
+    "selfsust": 0.0
+   },
+   "665": {
+    "exceed": 0.75,
+    "selfsust": 0.0
+   },
+   "670": {
+    "exceed": 0.775,
+    "selfsust": 0.0
+   },
+   "675": {
+    "exceed": 0.8250000000000001,
+    "selfsust": 0.0
+   },
+   "680": {
+    "exceed": 0.8250000000000001,
+    "selfsust": 0.0
+   },
+   "685": {
+    "exceed": 0.8250000000000001,
+    "selfsust": 0.0
+   },
+   "690": {
+    "exceed": 0.8500000000000001,
+    "selfsust": 0.0
+   },
+   "695": {
+    "exceed": 0.875,
+    "selfsust": 0.0
+   },
+   "700": {
+    "exceed": 0.875,
+    "selfsust": 0.025
+   },
+   "705": {
+    "exceed": 0.9,
+    "selfsust": 0.1
+   },
+   "710": {
+    "exceed": 0.9,
+    "selfsust": 0.17500000000000002
+   },
+   "715": {
+    "exceed": 0.925,
+    "selfsust": 0.225
+   },
+   "720": {
+    "exceed": 0.925,
+    "selfsust": 0.275
+   },
+   "725": {
+    "exceed": 0.925,
+    "selfsust": 0.35000000000000003
+   },
+   "730": {
+    "exceed": 0.875,
+    "selfsust": 0.4
+   }
+  }
+ }
+}
