@@ -1,0 +1,44 @@
+FCC 5-year, exceed criterion (baseline threshold 0.775)
+  [PASS] probability falls as compliance rises: 0.000 <= 0.936
+  [PASS] higher disposal success needs no more compliance: 0.775 <= 0.850
+  [PASS] more launches need no less compliance: 0.675 <= 0.825
+  [FAIL] larger population needs no less compliance: 0.825 <= 0.700
+  [PASS] more clustering needs no less compliance: 0.750 <= 0.775
+  [PASS] FCC needs no more compliance than IADC: 0.775 <= 0.900
+  [PASS] zero launches never flagged: 0.000 <= 0.000
+  [PASS] full compliance no worse than none: 0.000 <= 1.000
+  7/8 checks passed
+
+FCC 5-year, selfsust criterion (baseline threshold 0.850)
+  [PASS] probability falls as compliance rises: 0.001 <= 1.000
+  [PASS] higher disposal success needs no more compliance: 0.850 <= 0.950
+  [PASS] more launches need no less compliance: 0.775 <= 0.900
+  [PASS] larger population needs no less compliance: 0.850 <= 0.875
+  [PASS] more clustering needs no less compliance: 0.775 <= 0.900
+  [PASS] FCC needs no more compliance than IADC: 0.850 <= 1.000
+  [PASS] zero launches never flagged: 0.000 <= 0.000
+  [PASS] full compliance no worse than none: 0.000 <= 1.000
+  8/8 checks passed
+
+IADC 25-year, exceed criterion (baseline threshold 0.900)
+  [PASS] probability falls as compliance rises: 0.004 <= 0.953
+  [PASS] higher disposal success needs no more compliance: 0.900 <= 1.000
+  [PASS] more launches need no less compliance: 0.775 <= 0.975
+  [FAIL] larger population needs no less compliance: 0.975 <= 0.850
+  [PASS] more clustering needs no less compliance: 0.875 <= 0.925
+  [PASS] FCC needs no more compliance than IADC: 0.775 <= 0.900
+  [PASS] zero launches never flagged: 0.000 <= 0.000
+  [PASS] full compliance no worse than none: 0.000 <= 1.000
+  7/8 checks passed
+
+IADC 25-year, selfsust criterion (baseline threshold 1.000)
+  [PASS] probability falls as compliance rises: 0.324 <= 0.987
+  [PASS] higher disposal success needs no more compliance: 1.000 <= 1.050
+  [PASS] more launches need no less compliance: 0.925 <= 1.050
+  [PASS] larger population needs no less compliance: 1.000 <= 1.050
+  [PASS] more clustering needs no less compliance: 0.900 <= 1.050
+  [PASS] FCC needs no more compliance than IADC: 0.850 <= 1.000
+  [PASS] zero launches never flagged: 0.000 <= 0.000
+  [PASS] full compliance no worse than none: 0.324 <= 1.000
+  8/8 checks passed
+

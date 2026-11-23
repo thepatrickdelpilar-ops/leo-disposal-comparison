@@ -129,3 +129,24 @@ A BibTeX entry will be added on publication.
 ## License
 
 MIT License. See `LICENSE`.
+
+## Revision 2 (November 2026)
+
+The model was revised in response to peer review. The main changes:
+
+- Compliant spacecraft are removed exactly T years after retirement (cohort queue). The earlier constant-rate form is available with `deadline="rate"`.
+- Every run is scored against two criteria: population exceedance (`"exceed"`) and self-sustaining collisional growth (`"selfsust"`).
+- `validation/revision_analyses.py` runs every analysis added in the revision (headline, boundary, collisionless control, solar cycle, NRLMSISE-00 lifetimes, calibration sweep, collision formulations, coupled shells, launch distribution, traffic, reliability floor, avoidance, statistics). Each section writes a JSON log to `validation/logs/rev2/`.
+- `coupled.py` is the coupled nine-shell variant.
+- `figures/revision_figures.py` renders Figures 1 to 10 of the revised manuscript from those logs (copies are in `paper-figures/revision-1/`).
+
+To reproduce everything:
+
+```
+pip install -r requirements.txt pymsis
+python validation/revision_analyses.py headline boundary stats avoid floor control coupled solar msis launchdist kappa pairwise pairwise_recal flat_clustering matrix misc traffic
+python validation/monotonicity.py
+python figures/revision_figures.py
+```
+
+The logs in `validation/logs/` outside `rev2/` belong to the first submission and are kept for reference. The older per-figure scripts in `figures/` still run but draw the first-submission layouts.
